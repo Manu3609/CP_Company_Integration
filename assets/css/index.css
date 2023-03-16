@@ -79,7 +79,7 @@ main p:last-child {
 }
 .images .image {
     width: 100%;
-    height: 500px;
+    height: 60vh;
     background: #ffffff20;
 }
 .images .image:nth-child(1) {
