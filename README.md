@@ -5,7 +5,7 @@ You can see the result by clicking [here]()
 
 ## Storytime 😁
 
-I really apreciate watching tech and dev videos on Youtube. One day I saw [this video]() and I decided to make the challenge.
+I really apreciate watching tech and dev videos on Youtube. One day I saw [this video](https://youtu.be/F7-ERpRj3z8) and I decided to make the challenge.
 
 ## Technologies Used
 
