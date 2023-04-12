@@ -17,7 +17,7 @@ I really apreciate watching tech and dev videos on Youtube. One day I saw [this 
 
 To install this project, simply clone the Git repository on your local machine.
 
-`git clone https://github.com/your-username/project-name.git`
+`git clone https://github.com/Manu3609/CP_Company_Integration.git`
 
 
 ## Usage
