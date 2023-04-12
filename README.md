@@ -1,7 +1,7 @@
 # CP Company - Integration
 
 This project is an example of a static website for a fictional online store selling products. It is designed to be used as a template for Front-end web development projects. \
-You can see the result by clicking [here]()
+You can see the result by clicking [here](https://manu3609.github.io/CP_Company_Integration/)
 
 ## Storytime 😁
 
